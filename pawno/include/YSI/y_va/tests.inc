@@ -1,4 +1,3 @@
-
 static
 	YSI_g_sVariable;
 
