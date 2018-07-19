@@ -1,5 +1,5 @@
 // This is a comment
-// uncomment the line below if you want to write a filterscript
+// uncomment the line below if you want to write a filterscript dude.
 //#define FILTERSCRIPT
 
 #include <a_samp>
